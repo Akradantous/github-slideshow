@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I was born in one hundred log cabins.
 Use the left arrow to go back!
